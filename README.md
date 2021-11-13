@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📘 I'm current stuyding ... MSc in Clound Computing at National College of Ireland
+- 📘 I'm current stuyding ... MSc in Cloud Computing at National College of Ireland
 - 🔭 I’m currently working on ... College projects
 - 🌱 I’m currently learning ... AWS
 - 🤔 I’m looking for help with ... ReactJs
